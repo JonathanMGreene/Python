@@ -138,4 +138,36 @@
 #    bee += "e"
 #    print(bee)
 
+#get list of values
+#n = {"one": "un", "two": "deux"}
+#print(n["one"])
 
+
+#get list of keys
+#n = {"one": "un", "two": "deux"}
+#print(n.keys())
+
+#use keyword to loop through dictionary keys
+#nicknames = {"Arthur": "Art", "Lancelot": "Lance"}
+#print("Arthur" in nicknames)
+
+# get length of dictionary
+#n = {"one": "un", "two": "deux"}
+#print(len(n))
+
+#add value to dictionary
+#n = {"one": "un", "two": "deux"}
+#n.update({"three": "trois"})
+#print(n)
+
+#remove value from dictionary
+#n = {"one": "un", "two": "deux"}
+#element = n.pop("one")
+#print(element)
+
+#create dictionary, define a value, and pop the element.
+#dict ={}
+#dict["name"] = "Win"
+#if "name" in dict.keys():
+#    element = dict.pop("name")
+#print(element)
